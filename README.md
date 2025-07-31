@@ -22,7 +22,6 @@ RPManager è un bot multifunzione creato per attività roleplay, con funzioni av
 
 ## 📌 Link utili
 
-- 🌐 [Sito GitHub Pages](https://imalb3.github.io/RPManager-docs)
 - 🤖 [Invita il bot](https://discord.com/oauth2/authorize?client_id=1398995882791141427&permissions=8&integration_type=0&scope=bot+applications.commands)
 - 💬 [Server di Supporto Discord](https://discord.gg/Un3FzMYvKc)
 
